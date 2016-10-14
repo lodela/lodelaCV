@@ -1,0 +1,19 @@
+.nav li a {
+  color:white;
+  text-shadow:none;
+}
+.nav li:hover a{
+  color: grey;
+  background-color: rgba(128, 128, 128, 0.4);
+
+}
+.nav li.active{
+  border: solid 1px red;
+}
+.nav li a:focus{
+  background: rgba(255, 255, 255, 0.4);
+}
+
+.navbar-toggle .icon-bar{
+  background: white;
+}
