@@ -1,0 +1,20 @@
+.nombre{
+  font-family: 'Bungee Inline';
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.04765;
+  padding: 52px 0;
+  color:#314153;
+}
+.nombre span{
+  font-family: arial;
+  font-size: 20px;
+  color: black;
+  margin: 0; padding: 10px 0;
+}
+
+nav{
+  margin: 10px 0 0 0;
+  background: #314153;
+}
